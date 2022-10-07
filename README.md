@@ -1,2 +1,2 @@
-# Portfolio
- A collection of projects I have worked on with each project having its own branch.
+# Portfolio: CSC 330
+ Projects that Calin Farmer and I worked on together.
